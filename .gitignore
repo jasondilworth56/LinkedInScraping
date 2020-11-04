@@ -1,3 +1,6 @@
 # Project exclude paths
 /venv/
 config.ini
+*.env
+*.xlsx
+*.pyc
